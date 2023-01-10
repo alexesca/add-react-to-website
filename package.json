@@ -1,0 +1,24 @@
+{
+  "name": "add-react-to-website",
+  "version": "1.0.0",
+  "description": "Adding react to an existing website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexesca/add-react-to-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexesca/add-react-to-website/issues"
+  },
+  "homepage": "https://github.com/alexesca/add-react-to-website#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-react-app": "^7.0.1"
+  }
+}
