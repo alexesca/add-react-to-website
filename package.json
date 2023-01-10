@@ -19,6 +19,7 @@
   "homepage": "https://github.com/alexesca/add-react-to-website#readme",
   "devDependencies": {
     "eslint": "^8.31.0",
+    "eslint-config-prettier": "^8.6.0",
     "eslint-config-react-app": "^7.0.1"
   }
 }
